@@ -1,0 +1,5 @@
+"Emmanuel", "Chris", "+26059046090", "chris200@gcu.ac.uk", "Personel", "2018/07/21 15:18:01"
+"Heritier", "Muhire", "+23054746061", "hmuhir200@gcu.ac.uk", "Business", "2018/07/19 16:18:01"
+"Ebenezer", "Graham", "+2338900800", "egraha00@gcu.ac.uk", "Business", "2018/07/21 17:34:56"
+"Sackey", "Imma", "+2334508981", "isack00@gcu.ac.uk", "Business", "2018/07/20 14:30:02"
+"Maurice", "Mulisa", "+25078500777", "mulisa200@gcu.ac.uk", "Business", "2018/07/20 14:30:02"
